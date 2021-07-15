@@ -5,7 +5,7 @@
   "private": true,
   "devDependencies": {
     "grunt": "0.4.5",
-    "grunt-nightwatch": "0.5.2",
+    "grunt-nightwatch": "0.5.4",
     "grunt-parallel": "0.4.1",
     "request": "^2.72.0"
   }
