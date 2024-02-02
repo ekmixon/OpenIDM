@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "private": true,
   "devDependencies": {
-    "babel-eslint": "6.0.3",
+    "babel-eslint": "10.1.0",
     "babel-plugin-check-es2015-constants": "^6.8.0",
     "babel-plugin-transform-es2015-arrow-functions": "6.5.2",
     "babel-plugin-transform-es2015-block-scoping": "^6.9.0",
